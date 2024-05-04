@@ -11,8 +11,8 @@
 
 <p align="center">
 
-  
-  <img src="C:\Users\ravis\Downloads\bandicam 2024-05-04 16-48-44-990 - Copy.gif" alt="Demo" width="800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/demo.gif" alt="Demo" width="800" />
+
 </p>
 
 
